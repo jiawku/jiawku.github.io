@@ -91,6 +91,22 @@ categories: 搬家甩卖
 
 ### 体育和户外用品
 
+#### 1. Coleman 便携式炉具和炊具
+<img src="/images/moving_sale/20240831_114742.jpg" alt="Coleman Portable Stove with Cooking Pot" style="width:300px;"/>  
+
+**价格**: $30  
+
+**描述**: Coleman 便携式炉具，非常适合露营或户外烹饪。附带一个不锈钢炊具和玻璃盖。二者都保持良好状态，非常适合户外快速烹饪。
+
+#### 2. Char-Broil Gas Grill 190 和丙烷罐
+<img src="/images/moving_sale/20240831_114815.jpg" alt="Char-Broil Gas Grill 190" style="width:300px;"/>  
+<img src="/images/moving_sale/20240831_114856.jpg" alt="Char-Broil Gas Grill 190" style="width:300px;"/>  
+
+**价格**: $30 
+
+**描述**: Char-Broil Gas Grill 190，非常适合烧烤汉堡、鸡肉等。包括两个丙烷罐。烧烤炉稍微使用过，但仍处于良好工作状态，非常适合后院烧烤或露营。
+
+
 #### 11. 高尔夫推车
 <img src="/images/moving_sale/20240830_172159.jpg" alt="Golf Push Cart" style="width:300px;"/>  
 <img src="/images/moving_sale/20240830_172134.jpg" alt="Golf Push Cart" style="width:300px;"/>  
@@ -113,13 +129,6 @@ categories: 搬家甩卖
 **价格**: $120  
 
 **简介**: 完整的充气皮划艇套装，包括桨、充气泵和便携包。非常适合在湖泊和河流中享受乐趣。易于充气和放气，仅使用过几次。
-
-#### 14. [Bowflex SelectTech 可调节哑铃和支架](https://www.amazon.com/Bowflex-SelectTech-Adjustable-Dumbbells-Pair/dp/B001ARYU58)
-<img src="/images/moving_sale/20240830_131544.jpg" alt="Bowflex Dumbbells" style="width:300px;"/>  
-
-**价格**: $250  
-
-**简介**: 高品质可调节哑铃，可替代多个重量组，非常适合家庭力量训练。状况极佳，包含支架。
 
 ---
 
