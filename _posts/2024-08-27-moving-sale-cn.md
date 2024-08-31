@@ -27,14 +27,6 @@ categories: 搬家甩卖
 
 **简介**: AW3418DW。高性能曲面显示器，适合游戏和图形设计。提供超宽视角和卓越的图像质量。
 
-#### 2. 带3款游戏的PlayStation 5光盘版主机
-<img src="/images/moving_sale/20240830_131348.jpg" alt="PlayStation 5" style="width:400px;"/>  
-<img src="/images/moving_sale/20240827_165628.jpg" alt="PlayStation 5" style="width:400px;"/>  
-
-**价格**: $400  
-
-**简介**: 几乎全新，带原包装。PlayStation 5提供顶级的游戏体验，支持4K分辨率和最新的游戏技术。
-
 #### 3. 全新Logitech G435无线游戏耳机
 <img src="/images/moving_sale/20240830_143708.jpg" alt="Logitech G435" style="width:300px;"/>  
 <img src="/images/moving_sale/20240830_143715.jpg" alt="Logitech G435" style="width:300px;"/>  
