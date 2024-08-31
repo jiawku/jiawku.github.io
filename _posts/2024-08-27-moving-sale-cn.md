@@ -59,13 +59,6 @@ categories: 搬家甩卖
 
 **简介**: 时尚简约设计，适合任何房间。镜面清晰无瑕疵，木质框架坚固耐用。
 
-#### 6. 三抽屉柜
-<img src="/images/moving_sale/20240823_151625.jpg" alt="Three-Drawer Dresser" style="width:300px;"/>  
-
-**价格**: $20  
-
-**简介**: 深色木质三抽屉柜，容量大，适合放置衣物或其他日常用品，状况良好。
-
 #### 7. 床头柜
 <img src="/images/moving_sale/20240823_151646.jpg" alt="Nightstand" style="width:300px;"/>  
 
@@ -82,12 +75,12 @@ categories: 搬家甩卖
 
 **简介**: 灰色柔软靠背垫，非常适合阅读或看电视，几乎全新。
 
-#### 9. 带多种过滤器的手持吸尘器
+#### 9. 手持吸尘器
 <img src="/images/moving_sale/20240827_165814.jpg" alt="Handheld Vacuum Cleaner" style="width:300px;"/>  
 
 **价格**: $20  
 
-**简介**: 轻便的手持吸尘器，非常适合清理小面积区域或车内使用。吸力强，电池寿命长。
+**简介**: 轻便的手持吸尘器，非常适合清理小面积区域或车内使用。吸力强，电池寿命长。还有很多滤网，一并赠送。
 
 #### 10. 带遥控的Lasko陶瓷塔式加热器
 <img src="/images/moving_sale/20240830_131400.jpg" alt="Lasko Heater" style="width:300px;"/>  
