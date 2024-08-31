@@ -91,12 +91,12 @@ categories: 搬家甩卖
 
 ### 体育和户外用品
 
-#### 1. Coleman 便携式炉具和炊具
+#### 1. Coleman 便携式炉具和火锅
 <img src="/images/moving_sale/20240831_114742.jpg" alt="Coleman Portable Stove with Cooking Pot" style="width:300px;"/>  
 
 **价格**: $30  
 
-**描述**: Coleman 便携式炉具，非常适合露营或户外烹饪。附带一个不锈钢炊具和玻璃盖。二者都保持良好状态，非常适合户外快速烹饪。
+**描述**: Coleman 便携式炉具，非常适合露营或户外烹饪。附带一个不锈钢火锅。二者都保持良好状态。
 
 #### 2. Char-Broil Gas Grill 190 和丙烷罐
 <img src="/images/moving_sale/20240831_114815.jpg" alt="Char-Broil Gas Grill 190" style="width:300px;"/>  
