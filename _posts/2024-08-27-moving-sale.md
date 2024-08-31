@@ -26,13 +26,6 @@ categories: moving sale
 
 **Description**: AW3418DW. High-performance curved monitor, ideal for gaming and graphic design. Offers ultra-wide viewing angles and exceptional image quality.
 
-#### 2. PlayStation 5 Disc Console with 3 games
-<img src="/images/moving_sale/20240830_131348.jpg" alt="PlayStation 5" style="width:400px;"/>  
-<img src="/images/moving_sale/20240827_165628.jpg" alt="PlayStation 5" style="width:400px;"/>  
-**Price**: $400  
-
-**Description**: Barely used PlayStation 5 console with original packaging. Delivers top-tier gaming experience with support for 4K resolution and the latest gaming technologies.
-
 #### 3. Brand New Logitech G435 Wireless Gaming Headset
 <img src="/images/moving_sale/20240830_143708.jpg" alt="Logitech G435" style="width:300px;"/>  
 <img src="/images/moving_sale/20240830_143715.jpg" alt="Logitech G435" style="width:300px;"/>  
