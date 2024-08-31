@@ -55,7 +55,7 @@ categories: 搬家甩卖
 #### 5. 全身镜
 <img src="/images/moving_sale/20240823_151616.jpg" alt="Full-Length Mirror" style="width:300px;"/>  
 
-**价格**: $50  
+**价格**: $150  
 
 **简介**: 时尚简约设计，适合任何房间。镜面清晰无瑕疵，木质框架坚固耐用。
 
@@ -69,7 +69,7 @@ categories: 搬家甩卖
 #### 7. 床头柜
 <img src="/images/moving_sale/20240823_151646.jpg" alt="Nightstand" style="width:300px;"/>  
 
-**价格**: $20  
+**价格**: $100  
 
 **简介**: 黑色双抽屉床头柜，适合放置书籍、闹钟等。轻微使用痕迹，但仍非常坚固耐用。
 
