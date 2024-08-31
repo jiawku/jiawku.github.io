@@ -54,12 +54,6 @@ categories: moving sale
 
 **Description**: Stylish and simple design, perfect for any room. The mirror surface is clear and flawless, and the wooden frame is sturdy and durable.
 
-#### 6. Three-Drawer Dresser
-<img src="/images/moving_sale/20240823_151625.jpg" alt="Three-Drawer Dresser" style="width:300px;"/>  
-**Price**: $20  
-
-**Description**: Dark wood three-drawer dresser with ample storage space, perfect for clothing or other daily items. In good condition.
-
 #### 7. Nightstand
 <img src="/images/moving_sale/20240823_151646.jpg" alt="Nightstand" style="width:300px;"/>  
 **Price**: $100  
@@ -88,6 +82,22 @@ categories: moving sale
 
 ### Sports and Outdoors
 
+#### 1. Coleman Portable Stove with Cooking Pot
+<img src="/images/moving_sale/20240831_114742.jpg" alt="Coleman Portable Stove with Cooking Pot" style="width:300px;"/>  
+
+**Price**: $30  
+
+**Description**: Coleman portable stove, ideal for camping or outdoor cooking. Comes with a stainless steel cooking pot and glass lid. Both are in excellent condition, perfect for quick and easy outdoor meals.
+
+#### 2. Char-Broil Gas Grill 190 with Propane Tanks
+<img src="/images/moving_sale/20240831_114815.jpg" alt="Char-Broil Gas Grill 190" style="width:300px;"/>  
+<img src="/images/moving_sale/20240831_114856.jpg" alt="Char-Broil Gas Grill 190" style="width:300px;"/>  
+
+**Price**: $30 
+
+**Description**: Char-Broil Gas Grill 190, perfect for grilling burgers, chicken, and more. Includes two propane tanks. The grill is slightly used but still in good working condition, great for backyard barbecues or camping trips.
+
+
 #### 11. Golf Push Cart
 <img src="/images/moving_sale/20240830_172159.jpg" alt="Golf Push Cart" style="width:300px;"/>  
 <img src="/images/moving_sale/20240830_172134.jpg" alt="Golf Push Cart" style="width:300px;"/>  
@@ -107,14 +117,6 @@ categories: moving sale
 **Price**: $120  
 
 **Description**: Complete inflatable kayak set including paddles, pump, and carry bag. Perfect for enjoying lakes and rivers. Easy to inflate and deflate, only used a few times.
-
-#### 14. [Bowflex SelectTech Adjustable Dumbbells with Stand](https://www.amazon.com/Bowflex-SelectTech-Adjustable-Dumbbells-Pair/dp/B001ARYU58)
-<img src="/images/moving_sale/20240830_131544.jpg" alt="Bowflex Dumbbells" style="width:300px;"/>  
-**Price**: $250  
-
-**Description**: High-quality adjustable dumbbells, replacing multiple sets of weights. Ideal for strength training at home. In excellent condition with stand included.
-
-
 ---
 
 ## Important Notes
