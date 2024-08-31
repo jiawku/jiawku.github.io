@@ -44,7 +44,7 @@ categories: moving sale
 
 #### 4. Ergonomic Office Chair
 <img src="/images/moving_sale/20240828_144353.jpg" alt="Ergonomic Office Chair" style="width:300px;"/>  
-**Price**: $100  
+**Price**: $50  
 
 **Description**: High-quality ergonomic office chair with adjustable headrest, lumbar support, and breathable mesh back. Perfect for long hours of work or gaming. Slight signs of use.
 
