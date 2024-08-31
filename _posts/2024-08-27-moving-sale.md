@@ -18,12 +18,12 @@ categories: moving sale
 
 #### 1. Alienware 34-Inch Curved Monitor
 ![Alienware Monitor](path-to-image.jpg)  
-**Price**: $800  
+**Price**: $375 
 **Description**: High-performance curved monitor, ideal for gaming and graphic design. Offers ultra-wide viewing angles and exceptional image quality. Nearly new, still under warranty.
 
 #### 2. PlayStation 5 Console
 ![PlayStation 5](path-to-image.jpg)  
-**Price**: $450  
+**Price**: $400  
 **Description**: Barely used PlayStation 5 console with original packaging. Delivers top-tier gaming experience with support for 4K resolution and the latest gaming technologies.
 
 ### Furniture
