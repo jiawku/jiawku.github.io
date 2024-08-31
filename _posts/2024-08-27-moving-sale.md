@@ -50,7 +50,7 @@ categories: moving sale
 
 #### 5. Full-Length Mirror
 <img src="/images/moving_sale/20240823_151616.jpg" alt="Full-Length Mirror" style="width:300px;"/>  
-**Price**: $50  
+**Price**: $150  
 
 **Description**: Stylish and simple design, perfect for any room. The mirror surface is clear and flawless, and the wooden frame is sturdy and durable.
 
@@ -62,7 +62,7 @@ categories: moving sale
 
 #### 7. Nightstand
 <img src="/images/moving_sale/20240823_151646.jpg" alt="Nightstand" style="width:300px;"/>  
-**Price**: $20  
+**Price**: $100  
 
 **Description**: Black two-drawer nightstand, ideal for holding books, alarm clocks, and more. Slightly used but still very sturdy and reliable.
 
