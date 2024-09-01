@@ -22,14 +22,14 @@ categories: 搬家甩卖
 #### 4. 人体工学办公椅
 <img src="/images/moving_sale/20240828_144353.jpg" alt="Ergonomic Office Chair" style="width:300px;"/>  
 
-**价格**: $50 
+**价格**: $~~50~~ 40 
 
 **简介**: 高品质的人体工学办公椅，带可调节的头枕、腰部支撑和透气的网状靠背。非常适合长时间的工作或游戏。轻微使用痕迹。
 
 #### 5. 全身镜
 <img src="/images/moving_sale/20240823_151616.jpg" alt="Full-Length Mirror" style="width:300px;"/>  
 
-**价格**: $150  
+**价格**: $~~150~~ ·25  
 
 **简介**: 时尚简约设计，适合任何房间。镜面清晰无瑕疵，木质框架坚固耐用。
 
@@ -92,7 +92,7 @@ categories: 搬家甩卖
 #### 12. Steelbody 平卧举重凳
 <img src="/images/moving_sale/20240830_131434.jpg" alt="Steelbody Weight Bench" style="width:300px;"/>  
 
-**价格**: $60  
+**价格**: $~~60~~ 50  
 
 **简介**: 重型平卧举重凳，非常适合家庭健身。结构坚固，确保运动时的稳定性。轻微使用，略有磨损。
 
