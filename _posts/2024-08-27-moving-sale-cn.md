@@ -29,7 +29,7 @@ categories: 搬家甩卖
 #### 5. 全身镜
 <img src="/images/moving_sale/20240823_151616.jpg" alt="Full-Length Mirror" style="width:300px;"/>  
 
-**价格**: $~~150~~ ·25  
+**价格**: $~~150~~ 125  
 
 **简介**: 时尚简约设计，适合任何房间。镜面清晰无瑕疵，木质框架坚固耐用。
 
