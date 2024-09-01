@@ -17,24 +17,6 @@ categories: 搬家甩卖
 
 ### 电子产品
 
-#### 1. Alienware 34英寸曲面显示器
-<img src="/images/moving_sale/20240827_164459.jpg" alt="Alienware Monitor" style="width:400px;"/>  
-<img src="/images/moving_sale/20240827_165005.jpg" alt="Alienware Monitor" style="width:400px;"/>  
-<img src="/images/moving_sale/20240829_193511.jpg" alt="Alienware Monitor" style="width:400px;"/>  
-<img src="/images/moving_sale/20240829_193520.jpg" alt="Alienware Monitor" style="width:400px;"/>  
-
-**价格**: $375  
-
-**简介**: AW3418DW。高性能曲面显示器，适合游戏和图形设计。提供超宽视角和卓越的图像质量。
-
-#### 3. 全新Logitech G435无线游戏耳机
-<img src="/images/moving_sale/20240830_143708.jpg" alt="Logitech G435" style="width:300px;"/>  
-<img src="/images/moving_sale/20240830_143715.jpg" alt="Logitech G435" style="width:300px;"/>  
-
-**价格**: $30  
-
-**简介**: 轻便的无线游戏耳机，音质出色，设计舒适。兼容多个平台，包括PC和主机。全新，带原包装。
-
 ### 家具
 
 #### 4. 人体工学办公椅
