@@ -16,23 +16,6 @@ categories: moving sale
 ## Items for Sale
 
 ### Electronics
-
-#### 1. Alienware 34-Inch Curved Monitor
-<img src="/images/moving_sale/20240827_164459.jpg" alt="Alienware Monitor" style="width:400px;"/>  
-<img src="/images/moving_sale/20240827_165005.jpg" alt="Alienware Monitor" style="width:400px;"/>  
-<img src="/images/moving_sale/20240829_193511.jpg" alt="Alienware Monitor" style="width:400px;"/>  
-<img src="/images/moving_sale/20240829_193520.jpg" alt="Alienware Monitor" style="width:400px;"/>  
-**Price**: $375  
-
-**Description**: AW3418DW. High-performance curved monitor, ideal for gaming and graphic design. Offers ultra-wide viewing angles and exceptional image quality.
-
-#### 3. Brand New Logitech G435 Wireless Gaming Headset
-<img src="/images/moving_sale/20240830_143708.jpg" alt="Logitech G435" style="width:300px;"/>  
-<img src="/images/moving_sale/20240830_143715.jpg" alt="Logitech G435" style="width:300px;"/>  
-**Price**: $30  
-
-**Description**: Lightweight wireless gaming headset with excellent sound quality and comfortable design. Compatible with multiple platforms, including PC and consoles. Brand New, in original packaging.
-
 ### Furniture
 
 #### 4. Ergonomic Office Chair
