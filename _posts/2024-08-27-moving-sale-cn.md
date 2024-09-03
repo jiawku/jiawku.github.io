@@ -72,15 +72,6 @@ categories: 搬家甩卖
 
 **描述**: Coleman 便携式炉具，非常适合露营或户外烹饪。附带一个不锈钢火锅。二者都保持良好状态。
 
-#### 2. Char-Broil Gas Grill 190 和丙烷罐
-<img src="/images/moving_sale/20240831_114815.jpg" alt="Char-Broil Gas Grill 190" style="width:300px;"/>  
-<img src="/images/moving_sale/20240831_114856.jpg" alt="Char-Broil Gas Grill 190" style="width:300px;"/>  
-
-**价格**: $30 
-
-**描述**: Char-Broil Gas Grill 190，非常适合烧烤汉堡、鸡肉等。包括两个丙烷罐。烧烤炉稍微使用过，但仍处于良好工作状态，非常适合后院烧烤或露营。
-
-
 #### 11. 高尔夫推车
 <img src="/images/moving_sale/20240830_172159.jpg" alt="Golf Push Cart" style="width:300px;"/>  
 <img src="/images/moving_sale/20240830_172134.jpg" alt="Golf Push Cart" style="width:300px;"/>  
@@ -95,14 +86,6 @@ categories: 搬家甩卖
 **价格**: $~~60~~ 50  
 
 **简介**: 重型平卧举重凳，非常适合家庭健身。结构坚固，确保运动时的稳定性。轻微使用，略有磨损。
-
-#### 13. [Intex Explorer K2 充气皮划艇套装](https://www.amazon.com/Intex-68307EP-Explorer-Inflatable-Kayak/dp/B00A7EXF4C)
-<img src="/images/moving_sale/20240830_131455.jpg" alt="Inflatable Kayak" style="width:300px;"/>  
-<img src="https://f.media-amazon.com/images/I/61-+XFqGkhL._AC_SL1500_.jpg" alt="Inflatable Kayak" style="width:300px;"/>  
-
-**价格**: $120  
-
-**简介**: 完整的充气皮划艇套装，包括桨、充气泵和便携包。非常适合在湖泊和河流中享受乐趣。易于充气和放气，仅使用过几次。
 
 ---
 
